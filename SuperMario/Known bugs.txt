@@ -1,0 +1,1 @@
+Coins that drop off the screen randomly flicker on the screen for a single frame after a short amount of time. possibly solved by removing coins as they fall out.
